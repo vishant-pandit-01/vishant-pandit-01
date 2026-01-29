@@ -1,5 +1,5 @@
 <h1 align="center">hello 👋, I'm Vishant Pandit</h1>
-<h3 align="center">🎓 BCA 3rd Year Student | 📊 Python & Data Analysis Learner </h3>
+<h3 align="center">🎓 BCA 3rd Year Student | 📊 Python & Data Analytics Learner </h3>
 
 
 
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 BCA 3rd Year student  
-- 🐍 Focused on Python & Data Analysis  
+- 🐍 Focused on Python & Data Analytics  
 - 📊 Learning Excel and ML basics
 - 📈 Constantly improving my skills  
 
@@ -35,7 +35,7 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 ---
 
 ## 📈 Current Journey  
-- 📊 Strengthening my foundation in Python for data analysis  
+- 📊 Strengthening my foundation in Python for data analytics 
 - 📈 Learning Excel for data cleaning and reporting  
 - 🧠 Exploring Machine Learning basics step by step  
 - 🛠 Applying concepts through small practical projects  
