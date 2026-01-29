@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishant Pandit</h1>
+<h1 align="center">hello 👋, I'm Vishant Pandit</h1>
 <h3 align="center">🎓 BCA 3rd Year Student | 📊 Python & Data Analysis Learner </h3>
 
 
