@@ -36,6 +36,7 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vishant_pandit_01?igsh=czB0dXl0bmw2ZzE=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishant-sharma01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishantpandit90@gmail.com) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishant-pandit-01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vishant-pandit-01&theme=dark&hide_border=false)<br/>
