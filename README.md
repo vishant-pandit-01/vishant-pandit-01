@@ -50,9 +50,6 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 - 📚 Continuously improving analytical and problem-solving skills  
 
 ---
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[vishant-pandit-01]&theme=github_dark" alt="[vishant pandit]'s GitHub Stats"/>
-</div>
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/vishant-sharma01
 - 📧 Gmail: vishantpandit80@gmail.com
