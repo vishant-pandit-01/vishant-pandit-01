@@ -56,12 +56,18 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 </p>
 
 ---
+## 🚀 My GitHub Dashboard
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishant-pandit-01&theme=tokyonight&utcOffset=5.5)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishant-pandit-01&theme=tokyonight)
 
+---
+## 📊 Contribution Overview
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishant-pandit-01&theme=tokyonight)
+
+---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishant-pandit-01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vishant-pandit-01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant-pandit-01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=vishant-pandit-01&theme=radical) 
 
+---
 ## 📈 Current Journey  
 - 📊 Strengthening my foundation in Python for data analytics 
 - 📈 Learning Excel for data cleaning and reporting  
