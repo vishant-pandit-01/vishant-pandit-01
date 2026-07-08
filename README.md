@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Vishant Pandit</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=BCA+3rd+Year+Student;Frontend+Developer+💻;Django+Backend+Developer+⚙️;Python+Programmer+🐍;MySQL+Database+Handler+🗄️;Building+Responsive+Websites+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=BCA+graduate;Frontend+Developer+💻;Django+Backend+Developer+⚙️;Python+Programmer+🐍;MySQL+Database+Handler+🗄️;Building+Responsive+Websites+🚀" />
 </p>
 
 ---
