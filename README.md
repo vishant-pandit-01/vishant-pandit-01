@@ -73,7 +73,7 @@ src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-
 - 📈 Learning Excel for data cleaning and reporting  
 - 🧠 Exploring Machine Learning basics step by step  
 - 🛠 Applying concepts through small practical projects  
-- 📚 Continuously improving analytical and problem-solving skills  
+- 📚 Continuously improving analytical and problem solving skillS 
 
 ---
 ### 📫 Connect With Me
