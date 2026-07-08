@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🎓 BCA 3rd Year Student  
+- 🎓 BCA graduate  
 - 🐍 Focused on Python & Data Analytics  
 - 📊 Learning Excel & Data Visualization  
 - 🧠 Exploring Machine Learning Fundamentals  
